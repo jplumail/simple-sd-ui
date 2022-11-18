@@ -1,0 +1,1 @@
+### Simple stable diffusion Web UI (front-end only)
